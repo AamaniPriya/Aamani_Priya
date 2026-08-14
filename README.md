@@ -18,6 +18,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -85,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,5 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
