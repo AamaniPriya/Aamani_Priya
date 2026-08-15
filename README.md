@@ -53,6 +53,7 @@
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
