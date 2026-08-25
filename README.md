@@ -64,6 +64,7 @@
 | [0027-remove-element](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0021-merge-two-sorted-lists) |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -150,4 +152,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
