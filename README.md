@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
@@ -18,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -101,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
