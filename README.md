@@ -36,6 +36,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -71,6 +72,7 @@
 | [0027-remove-element](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
