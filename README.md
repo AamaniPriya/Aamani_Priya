@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
