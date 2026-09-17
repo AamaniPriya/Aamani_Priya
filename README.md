@@ -59,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0027-remove-element) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -141,6 +143,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
