@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -86,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
