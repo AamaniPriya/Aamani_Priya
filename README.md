@@ -40,6 +40,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
