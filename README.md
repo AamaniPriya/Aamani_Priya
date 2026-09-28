@@ -38,6 +38,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
