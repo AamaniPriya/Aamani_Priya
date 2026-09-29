@@ -220,11 +220,13 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
