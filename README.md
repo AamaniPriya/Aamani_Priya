@@ -192,6 +192,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
