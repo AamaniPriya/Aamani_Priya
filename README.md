@@ -40,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
+| [0856-score-of-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
@@ -240,6 +241,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
