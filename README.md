@@ -26,6 +26,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -116,6 +117,7 @@
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3069-distribute-elements-into-two-arrays-i) |
