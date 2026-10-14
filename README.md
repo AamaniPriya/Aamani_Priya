@@ -111,6 +111,7 @@
 | [0118-pascals-triangle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
@@ -199,6 +200,7 @@
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0137-single-number-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
