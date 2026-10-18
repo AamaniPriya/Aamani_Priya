@@ -218,6 +218,7 @@
 | [0002-add-two-numbers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
@@ -308,14 +309,17 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -378,4 +382,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
