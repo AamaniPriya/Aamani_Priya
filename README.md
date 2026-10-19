@@ -122,6 +122,7 @@
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -193,6 +194,7 @@
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
@@ -289,6 +291,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
