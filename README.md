@@ -64,6 +64,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +110,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
