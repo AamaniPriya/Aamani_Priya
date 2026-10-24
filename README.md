@@ -16,6 +16,7 @@
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -48,6 +49,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
