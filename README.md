@@ -126,6 +126,7 @@
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 ## Newton's Method
 |  |
 | ------- |
@@ -377,11 +379,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -399,4 +403,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
