@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
@@ -43,6 +44,7 @@
 | [0022-generate-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1021-remove-outermost-parentheses) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0137-single-number-ii) |
@@ -252,6 +255,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3498-reverse-degree-of-a-string) |
