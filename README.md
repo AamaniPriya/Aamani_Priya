@@ -65,6 +65,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -116,6 +117,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
