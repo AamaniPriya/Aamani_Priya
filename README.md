@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
@@ -118,6 +119,7 @@
 | [0036-valid-sudoku](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 ## Newton's Method
