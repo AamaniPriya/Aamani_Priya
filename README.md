@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
@@ -130,6 +131,7 @@
 | [0136-single-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
