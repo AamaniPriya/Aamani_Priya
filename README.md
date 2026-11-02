@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
@@ -388,12 +389,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
@@ -408,6 +411,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
 ## Binary Indexed Tree
 |  |
