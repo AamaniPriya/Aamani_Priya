@@ -91,6 +91,7 @@
 | [0027-remove-element](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
@@ -247,6 +248,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0203-remove-linked-list-elements) |
