@@ -140,6 +140,7 @@
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1472-design-browser-history) |
@@ -336,6 +337,7 @@
 | [0048-rotate-image](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 ## Newton's Method
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,6 +422,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,4 +446,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
