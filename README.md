@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
@@ -96,6 +97,7 @@
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
