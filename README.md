@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0836-rectangle-overlap) |
@@ -53,6 +54,7 @@
 | [0043-multiply-strings](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0856-score-of-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -211,6 +213,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0496-next-greater-element-i) |
