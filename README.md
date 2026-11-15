@@ -73,6 +73,7 @@
 | [0022-generate-parentheses](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
