@@ -62,6 +62,7 @@
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
