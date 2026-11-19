@@ -83,6 +83,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -157,6 +158,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -240,6 +242,7 @@
 | [0912-sort-an-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
