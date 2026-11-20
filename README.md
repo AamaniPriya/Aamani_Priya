@@ -118,6 +118,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AamaniPriya/Aamani_Priya/tree/master/1510-stone-game-iv) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3693-climbing-stairs-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3693-climbing-stairs-ii) |
 ## Array
@@ -164,6 +165,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3364-minimum-positive-sum-subarray) |
@@ -245,6 +247,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
