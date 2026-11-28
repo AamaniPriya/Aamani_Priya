@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -79,6 +80,7 @@
 | [0040-combination-sum-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -264,6 +266,7 @@
 | [0029-divide-two-integers](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AamaniPriya/Aamani_Priya/tree/master/0137-single-number-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AamaniPriya/Aamani_Priya/tree/master/3644-maximum-k-to-sort-a-permutation) |
